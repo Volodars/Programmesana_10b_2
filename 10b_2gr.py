@@ -16,8 +16,8 @@ Sidorenko Aleksandrs
 Siïiòð Deniss
 8 	
 Skodorovs Vlads
-9 	
-Smirnovs Volodars
+print(5+5*2)
+#Smirnovs Volodars
 10 	
 Verþanovskis Marks
 11 	
